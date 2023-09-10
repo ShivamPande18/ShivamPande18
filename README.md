@@ -1,5 +1,5 @@
 # Hey there, Shivam Pande here👋
-## Full Stack Developer 🖥️, ML Enthusiast 🤖
+## Full Stack Developer 🖥️, ML Enthusiast 🤖, Content Creator ▶️
 
 <div id="header" align="center">
   <img src="profile-pic(3).png" width="200"/>
