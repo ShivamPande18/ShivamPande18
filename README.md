@@ -20,7 +20,11 @@
 - 🖥️ I’m a full-stack web developer...
 - ✈️ I make video games... 
 - 📺 I'm a content creator. Here is the link to my YouTube channel [@TheTechpreneurs](https://www.youtube.com/thetechpreneurs) 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+### HAPPY CODING :)
 <!--
 **ShivamPande18/ShivamPande18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
