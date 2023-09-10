@@ -1,8 +1,8 @@
-### Hey there, Shivam </Pande> here👋
+# Hey there, Shivam Pande here👋
 ## Full Stack Developer 🖥️, ML Enthusiast 🤖
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="profile-pic(3).png" width="200"/>
 </div>
 
 <div id="badges" align = "center">
@@ -24,7 +24,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### HAPPY CODING :)
+## HAPPY CODING :)
 <!--
 **ShivamPande18/ShivamPande18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
