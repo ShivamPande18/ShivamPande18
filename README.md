@@ -1,41 +1,61 @@
-# Hey there, Shivam Pande here👋
-## Full Stack Developer 🖥️, ML Enthusiast 🤖, Content Creator ▶️
+# 👋 Hi, I'm Shivam Pande
 
-<div id="header" align="center">
-  <img src="profile-pic(3).png" width="200"/>
-</div>
+🚀 CTO & Founder of [Emergx.ai](https://emergx.ai)  
+📍 Building the future of hiring with instant, smart, and personalized AI-matching between startups and top talent.
 
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/shivampande18">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/thetechpreneurs">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+> “Matching human ability to it's greatest use”
 
-- 🖥️ I’m a full-stack web developer...
-- ✈️ I make video games... 
-- 📺 I'm a content creator. Here is the link to my YouTube channel [@TheTechpreneurs](https://www.youtube.com/thetechpreneurs) 
+---
+
+### ⚡ About Me
+
+- 🎓 Computer & Communication Engineering @ MIT Manipal (2026)
+- 💼 Ex-Samsung PRISM Intern | React Native Dev @ Frantiger
+- 🎮 Game developer, VS Code extension creator, and hackathon winner
+- 🎥 Content Creator: Tech, AI & Career Tips on [YouTube](https://www.youtube.com/thetechpreneurs) and [Instagram](https://www.instagram.com/thetechpreneurs/reels)
+
+---
+
+### 🔧 Projects
+
+- **[DevsLOG](https://marketplace.visualstudio.com/items?itemName=ShivamPande18.devslog)** – *Strava for Coders*  
+  Track, analyze & share your coding sessions right from VS Code.
+
+- **Fearless** – Social media app to overcome fears via daily video challenges  
+  Built with Flutter, Firebase & smart video compression.
+
+- **StackFish** – Chess AI engine using FEN, Minimax & Alpha-Beta Pruning  
+  Achieved 1500 ELO with a visual board in Pygame.
+
+- **Bomber Universe** – Unity game + Discord bot combo for a global leaderboard-based war game.
+
+---
+
+### 🎖️ Highlights
+
+- 🏆 Winner – Google Techstars Weekend 2022 (HR Hiring Platform)
+- 🥇 State & University Gold Medalist – Badminton
+- 🔐 CTF Organizer @ MIST | Head of Web @ ACM Manipal
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivampande18/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/thetechpreneurs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thetechpreneurs/reels/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/17gnCQdHUyDNZJ7GnqDvQdBOchjoHP0nQ/view?usp=sharing)
+
+---
+
+### 📫 Reach Me
+
+📧 shivampandework@gmail.com  
+🌐 [emergx.ai](https://emergx.ai)
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## HAPPY CODING :)
-<!--
-**ShivamPande18/ShivamPande18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
