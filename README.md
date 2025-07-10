@@ -35,7 +35,7 @@
 
 - 🏆 Winner – Google Techstars Weekend 2022 (HR Hiring Platform)
 - 🥇 State & University Gold Medalist – Badminton
-- 🔐 CTF Organizer @ MIST | Head of Web @ ACM Manipal
+- 🔐 Head of Web @ ACM Manipal
 
 ---
 
