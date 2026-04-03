@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Shivam Pande
 
-🚀 CTO & Founder of [Emergx.ai](https://emergx.ai)  
-📍 Building the future of hiring with instant, smart, and personalized AI-matching between startups and top talent.
+🚀 CTO & Founder of [Emergx.ai](https://www.emergx.ai)  
+📍 Building an AI evaluation platform to analyze human potential and agents across economically valuable tasks
 
-> “Matching human ability to it's greatest use”
+> “Matching human potential to it's greatest use”
 
 ---
 
@@ -50,7 +50,7 @@
 
 ### 📫 Reach Me
 
-📧 shivampandework@gmail.com  
+📧 admin@emergx.ai  
 🌐 [emergx.ai](https://emergx.ai)
 
 ---
