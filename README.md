@@ -8,10 +8,10 @@
 ---
 
 ### ⚡ About Me
-
-- 🎓 Computer & Communication Engineering @ MIT Manipal (2026)
-- 💼 Ex-Samsung PRISM Intern | React Native Dev @ Frantiger
-- 🎮 Game developer, VS Code extension creator, and hackathon winner
+- 🏛️ Indian School of Business, Hyderabad (ISB)
+- 🎓 Computer & Communication Engineering @ MIT Manipal 
+- 💼 Ex-Samsung Researcher | Founding Engineer @ Swifly
+- 🎮 Game developer, VS Code extension creator, and winner Google Techstar Startup Weekend
 - 🎥 Content Creator: Tech, AI & Career Tips on [YouTube](https://www.youtube.com/thetechpreneurs) and [Instagram](https://www.instagram.com/thetechpreneurs/reels)
 
 ---
